@@ -1,3 +1,0 @@
-Primer Ejercicio de Prueba para el repositorio de GitHub.
-Estructuras de Datos y Algoritmos I.
-Probando.
